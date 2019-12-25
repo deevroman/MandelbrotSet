@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Fractal" targetName="Fractal" />
+      <config projectName="Fractal" targetName="Fractal_autogen" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" GENERATION_OPTIONS="-DCMAKE_PREFIX_PATH=/Users/deevroman/Qt11/5.11.2/clang_64/lib/cmake" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="442d56c2-aa8f-4976-8dab-b18790516757" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Fractal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeRuleHashes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fractal.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fractal.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fractal.dir/Fractal_autogen/mocs_compilation.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fractal.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fractal.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fractal.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fractal.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fractal.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fractal.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fractal.dir/main.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fractal.dir/mainwindow.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fractal.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fractal_autogen.dir/AutogenInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fractal_autogen.dir/AutogenOldSettings.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fractal_autogen.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fractal_autogen.dir/ParseCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fractal_autogen.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fractal_autogen.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fractal_autogen.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fractal_autogen.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fractal_autogen.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Fractal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Fractal.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Fractal_autogen/EWIEGA46WW/moc_mainwindow.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Fractal_autogen/moc_predefs.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Fractal_autogen/mocs_compilation.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainwindow.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/mainwindow.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainwindow.h" beforeDir="false" afterPath="$PROJECT_DIR$/mainwindow.h" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UtKwz5E3avENrOXvPFMp34SRgr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+  </component>
+  <component name="RunManager" selected="CMake Application.Fractal">
+    <configuration name="Fractal" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Fractal" TARGET_NAME="Fractal" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Fractal" RUN_TARGET_NAME="Fractal">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fractal_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Fractal" TARGET_NAME="Fractal_autogen" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Fractal" />
+      <item itemvalue="CMake Application.Fractal_autogen" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="442d56c2-aa8f-4976-8dab-b18790516757" name="Default Changelist" comment="" />
+      <created>1576170693910</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576170693910</updated>
+      <workItem from="1576170695668" duration="597000" />
+      <workItem from="1576753573467" duration="106000" />
+      <workItem from="1576877835843" duration="7000" />
+      <workItem from="1577000636810" duration="654000" />
+      <workItem from="1577025498778" duration="13001000" />
+      <workItem from="1577110433526" duration="35253000" />
+      <workItem from="1577280778508" duration="2866000" />
+      <workItem from="1577284006396" duration="8825000" />
+      <workItem from="1577296302935" duration="4092000" />
+    </task>
+    <task id="LOCAL-00001" summary="Final version">
+      <created>1577286260494</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577286260495</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Final version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final version" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="423" y="111" key="CommitChangelistDialog2" timestamp="1577286259423">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="423" y="111" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1577286259423" />
+    <state width="1638" height="261" key="GridCell.Tab.0.bottom" timestamp="1577301937654">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state width="1638" height="294" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1577042123670" />
+    <state width="1638" height="261" key="GridCell.Tab.0.bottom/0.23.1680.1002@0.23.1680.1002" timestamp="1577222416362" />
+    <state width="1638" height="261" key="GridCell.Tab.0.bottom/0.23.1680.972@0.23.1680.972" timestamp="1577222393966" />
+    <state width="1638" height="261" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1577301937654" />
+    <state width="1638" height="261" key="GridCell.Tab.0.center" timestamp="1577301937653">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state width="1638" height="294" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1577042123668" />
+    <state width="1638" height="261" key="GridCell.Tab.0.center/0.23.1680.1002@0.23.1680.1002" timestamp="1577222416361" />
+    <state width="1638" height="261" key="GridCell.Tab.0.center/0.23.1680.972@0.23.1680.972" timestamp="1577222393965" />
+    <state width="1638" height="261" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1577301937653" />
+    <state width="1638" height="261" key="GridCell.Tab.0.left" timestamp="1577301937653">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state width="1638" height="294" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1577042123667" />
+    <state width="1638" height="261" key="GridCell.Tab.0.left/0.23.1680.1002@0.23.1680.1002" timestamp="1577222416361" />
+    <state width="1638" height="261" key="GridCell.Tab.0.left/0.23.1680.972@0.23.1680.972" timestamp="1577222393965" />
+    <state width="1638" height="261" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1577301937653" />
+    <state width="1638" height="261" key="GridCell.Tab.0.right" timestamp="1577301937653">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state width="1638" height="294" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1577042123669" />
+    <state width="1638" height="261" key="GridCell.Tab.0.right/0.23.1680.1002@0.23.1680.1002" timestamp="1577222416361" />
+    <state width="1638" height="261" key="GridCell.Tab.0.right/0.23.1680.972@0.23.1680.972" timestamp="1577222393966" />
+    <state width="1638" height="261" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1577301937653" />
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom" timestamp="1577296298419">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state width="1638" height="407" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1577042119899" />
+    <state width="1638" height="362" key="GridCell.Tab.1.bottom/0.23.1680.972@0.23.1680.972" timestamp="1577213149739" />
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom/0.23.1680.975@0.23.1680.975" timestamp="1577296298419" />
+    <state width="1638" height="363" key="GridCell.Tab.1.center" timestamp="1577296298419">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state width="1638" height="407" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1577042119892" />
+    <state width="1638" height="362" key="GridCell.Tab.1.center/0.23.1680.972@0.23.1680.972" timestamp="1577213149739" />
+    <state width="1638" height="363" key="GridCell.Tab.1.center/0.23.1680.975@0.23.1680.975" timestamp="1577296298419" />
+    <state width="1638" height="363" key="GridCell.Tab.1.left" timestamp="1577296298419">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state width="1638" height="407" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1577042119890" />
+    <state width="1638" height="362" key="GridCell.Tab.1.left/0.23.1680.972@0.23.1680.972" timestamp="1577213149738" />
+    <state width="1638" height="363" key="GridCell.Tab.1.left/0.23.1680.975@0.23.1680.975" timestamp="1577296298419" />
+    <state width="1638" height="363" key="GridCell.Tab.1.right" timestamp="1577296298419">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state width="1638" height="407" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1577042119894" />
+    <state width="1638" height="362" key="GridCell.Tab.1.right/0.23.1680.972@0.23.1680.972" timestamp="1577213149739" />
+    <state width="1638" height="363" key="GridCell.Tab.1.right/0.23.1680.975@0.23.1680.975" timestamp="1577296298419" />
+    <state x="341" y="148" key="SettingsEditor" timestamp="1577283783815">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="341" y="148" key="SettingsEditor/0.23.1680.972@0.23.1680.972" timestamp="1577113712389" />
+    <state x="341" y="148" key="SettingsEditor/0.23.1680.975@0.23.1680.975" timestamp="1577283783815" />
+    <state x="440" y="239" key="Vcs.Push.Dialog.v2" timestamp="1577286265083">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="440" y="239" key="Vcs.Push.Dialog.v2/0.23.1680.975@0.23.1680.975" timestamp="1577286265083" />
+    <state x="100" y="123" width="1480" height="775" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1577294530391">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="100" y="123" width="1480" height="775" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1680.975@0.23.1680.975" timestamp="1577294530391" />
+    <state x="517" y="341" key="com.intellij.ide.util.TipDialog" timestamp="1577111612311">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state x="517" y="341" key="com.intellij.ide.util.TipDialog/0.23.1680.972@0.23.1680.972" timestamp="1577111612311" />
+    <state x="389" y="252" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1577171320522">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state x="389" y="252" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1680.972@0.23.1680.972" timestamp="1577171320522" />
+    <state x="602" y="163" key="refactoring.ChangeSignatureDialog" timestamp="1577034674283">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="602" y="163" key="refactoring.ChangeSignatureDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1577034674283" />
+  </component>
+</project>

@@ -9,14 +9,18 @@ class MainWindow : public QMainWindow
 {
     Q_OBJECT
     bool freeze = false;
+    struct snapshot{
+        long double start_x, start_y, scale;
+    };
 public:
     MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
     QImage* canvas;
-    QImage* startCanvas;
-    QLabel* canvasLabel;
     QRubberBand* rubberBand = nullptr;
     QPoint origin;
+    QStack<snapshot> history;
+    QShortcut* keyCtrlZ;
+    QShortcut* keyEsc;
     long double scale = 1.0;
     long double start_x = 0.0, start_y = 0.0;
 
@@ -26,8 +30,10 @@ public:
 
     void mouseReleaseEvent(QMouseEvent *event);
 
-    void keyPressEvent(QKeyEvent *e);
-
     void paintEvent(QPaintEvent *event);
+
+    void slotShortcutCtrlZ();
+
+    void slotShortcutEcs();
 };
 #endif // MAINWINDOW_H

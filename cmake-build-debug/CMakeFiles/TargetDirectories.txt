@@ -1,0 +1,4 @@
+/Users/deevroman/QtProjects/Fractal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/deevroman/QtProjects/Fractal/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/deevroman/QtProjects/Fractal/cmake-build-debug/CMakeFiles/Fractal.dir
+/Users/deevroman/QtProjects/Fractal/cmake-build-debug/CMakeFiles/Fractal_autogen.dir
