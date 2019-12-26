@@ -12,12 +12,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="442d56c2-aa8f-4976-8dab-b18790516757" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fractal.dir/mainwindow.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fractal.dir/mainwindow.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Fractal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Fractal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mainwindow.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/mainwindow.cpp" afterDir="false" />
-    </list>
+    <list default="true" id="442d56c2-aa8f-4976-8dab-b18790516757" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,7 +90,7 @@
       <workItem from="1577110433526" duration="35253000" />
       <workItem from="1577280778508" duration="2866000" />
       <workItem from="1577284006396" duration="8825000" />
-      <workItem from="1577296302935" duration="7024000" />
+      <workItem from="1577296302935" duration="7216000" />
     </task>
     <task id="LOCAL-00001" summary="Final version">
       <created>1577286260494</created>
@@ -111,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577302499327</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Final version">
+      <created>1577351580695</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577351580697</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,38 +124,38 @@
     <option name="LAST_COMMIT_MESSAGE" value="Final version" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="423" y="111" key="CommitChangelistDialog2" timestamp="1577302498446">
+    <state x="423" y="111" key="CommitChangelistDialog2" timestamp="1577351579961">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="423" y="111" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1577302498446" />
-    <state width="1638" height="261" key="GridCell.Tab.0.bottom" timestamp="1577347244356">
+    <state x="423" y="111" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1577351579961" />
+    <state width="1638" height="261" key="GridCell.Tab.0.bottom" timestamp="1577351763511">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state width="1638" height="294" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1577042123670" />
     <state width="1638" height="261" key="GridCell.Tab.0.bottom/0.23.1680.1002@0.23.1680.1002" timestamp="1577222416362" />
     <state width="1638" height="261" key="GridCell.Tab.0.bottom/0.23.1680.972@0.23.1680.972" timestamp="1577222393966" />
-    <state width="1638" height="261" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1577347244356" />
-    <state width="1638" height="261" key="GridCell.Tab.0.center" timestamp="1577347244355">
+    <state width="1638" height="261" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1577351763511" />
+    <state width="1638" height="261" key="GridCell.Tab.0.center" timestamp="1577351763509">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state width="1638" height="294" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1577042123668" />
     <state width="1638" height="261" key="GridCell.Tab.0.center/0.23.1680.1002@0.23.1680.1002" timestamp="1577222416361" />
     <state width="1638" height="261" key="GridCell.Tab.0.center/0.23.1680.972@0.23.1680.972" timestamp="1577222393965" />
-    <state width="1638" height="261" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1577347244355" />
-    <state width="1638" height="261" key="GridCell.Tab.0.left" timestamp="1577347244354">
+    <state width="1638" height="261" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1577351763509" />
+    <state width="1638" height="261" key="GridCell.Tab.0.left" timestamp="1577351763509">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state width="1638" height="294" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1577042123667" />
     <state width="1638" height="261" key="GridCell.Tab.0.left/0.23.1680.1002@0.23.1680.1002" timestamp="1577222416361" />
     <state width="1638" height="261" key="GridCell.Tab.0.left/0.23.1680.972@0.23.1680.972" timestamp="1577222393965" />
-    <state width="1638" height="261" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1577347244354" />
-    <state width="1638" height="261" key="GridCell.Tab.0.right" timestamp="1577347244356">
+    <state width="1638" height="261" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1577351763509" />
+    <state width="1638" height="261" key="GridCell.Tab.0.right" timestamp="1577351763510">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state width="1638" height="294" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1577042123669" />
     <state width="1638" height="261" key="GridCell.Tab.0.right/0.23.1680.1002@0.23.1680.1002" timestamp="1577222416361" />
     <state width="1638" height="261" key="GridCell.Tab.0.right/0.23.1680.972@0.23.1680.972" timestamp="1577222393966" />
-    <state width="1638" height="261" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1577347244356" />
+    <state width="1638" height="261" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1577351763510" />
     <state width="1638" height="363" key="GridCell.Tab.1.bottom" timestamp="1577345525780">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
@@ -183,10 +185,10 @@
     </state>
     <state x="341" y="148" key="SettingsEditor/0.23.1680.972@0.23.1680.972" timestamp="1577113712389" />
     <state x="341" y="148" key="SettingsEditor/0.23.1680.975@0.23.1680.975" timestamp="1577283783815" />
-    <state x="440" y="239" key="Vcs.Push.Dialog.v2" timestamp="1577305500931">
+    <state x="440" y="239" key="Vcs.Push.Dialog.v2" timestamp="1577351697282">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="440" y="239" key="Vcs.Push.Dialog.v2/0.23.1680.975@0.23.1680.975" timestamp="1577305500931" />
+    <state x="440" y="239" key="Vcs.Push.Dialog.v2/0.23.1680.975@0.23.1680.975" timestamp="1577351697282" />
     <state x="100" y="123" width="1480" height="775" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1577294530391">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
