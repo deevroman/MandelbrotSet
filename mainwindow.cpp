@@ -88,6 +88,9 @@ void MainWindow::slotShortcutEcs() {
     start_x = 0.0;
     start_y = 0.0;
     this->update();
+    while(history.size() > 1){
+        history.pop();
+    }
 }
 
 void MainWindow::slotShortcutCtrlZ() {
@@ -114,7 +117,10 @@ void MainWindow::paintEvent(QPaintEvent *event) {
     const int blockSize = 100;
     QVector<QThread *> threads;
     long double w = canvas->width(), h = canvas->height();
-    const int MAX_ITERS = 648;
+    int MAX_ITERS = 648;
+    if(scale < 0.000000000000000004){
+        MAX_ITERS *= 1.48;
+    }
     const long double eps = 1e-7;
     auto draw = [&](int x, int y, int xw, int yh) {
         for (int i = x; i < xw; i++) {
